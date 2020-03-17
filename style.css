@@ -38,6 +38,10 @@ html {
 	background-color: red;
 }
 
+h2 {
+	align-items: center;
+}
+
 h3 {
 	color: #FFFFFF;
 	text-decoration: underline;
