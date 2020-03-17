@@ -24,7 +24,7 @@
 }
 
 body {
-	font-family: 'Comic Sans MS'; font-size 18px;
+	font-family: 'comicsans'; font-size 18px;
 }
 
 html {
@@ -58,14 +58,14 @@ h3 {
 }
 
 #title {
-	font-family: 'Comic Sans MS';
+	font-family: 'comicsans';
 	color: #B54EFF;
 	font-style: bold;
 	margin-left: 2em;
 }
 
 #title2 {
-	font-family: 'Comic Sans MS';
+	font-family: 'comicsans';
 	color: #FF22BC;
 	text-align: center;
 }
