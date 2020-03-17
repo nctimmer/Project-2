@@ -38,6 +38,10 @@ html {
 	background-color: red;
 }
 
+h1 {
+	align-items: center;
+}
+
 h2 {
 	align-items: center;
 }
@@ -45,6 +49,14 @@ h2 {
 h3 {
 	color: #FFFFFF;
 	text-decoration: underline;
+}
+
+h4 {
+	align-items: center;
+}
+
+h5 {
+	align-items: center;
 }
 
 .main {
