@@ -36,3 +36,31 @@ h3 {
 	text-decoration: underline;
 }
 
+.maininfo {
+	display: flex;
+	justify-conent: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.simmary, p {
+	margin-left: 2em;
+}
+
+.media {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#title {
+	font-family: 'Comic Sans MS';
+	color: #B54EFF;
+	font-style: bold;
+	margin-left: 2em;
+}
+
+#title2 {
+	font-family: 'Comic Sans MS';
+	color: #FF22BC;
+	text-align: center;
+}
