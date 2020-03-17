@@ -64,3 +64,13 @@ h3 {
 	color: #FF22BC;
 	text-align: center;
 }
+
+.media2 {
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.third {
+	color: #7000A5;
+	text-decoration: underline;
+}
