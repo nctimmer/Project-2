@@ -8,3 +8,15 @@ h2{
 	color: white;
 	border-radius: 13px;
 }
+
+p, li, td {
+	color: red;
+	font-family:"Comic Sans MS";
+}
+
+td.main_content{
+	border-radius: 17px;
+	text-align: center;
+	background-color: white;
+}
+
