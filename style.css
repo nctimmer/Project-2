@@ -43,6 +43,11 @@ h3 {
 	flex-direction: column;
 }
 
+#certification {
+	color: #41BF0D;
+	text-decoration: underline;
+}
+
 .summary, p {
 	margin-left: 2em;
 }
