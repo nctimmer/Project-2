@@ -1,0 +1,10 @@
+h1, h2, h3 {
+color: blue;
+font-family:"Comic Sans MS";
+}
+
+h2{
+	background-color: black;
+	color: white;
+	border-radius: 13px;
+}
