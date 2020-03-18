@@ -47,11 +47,13 @@ p {
 	flex-direction: column;
 }
 
+#certification {
+	color: #41BF0D;
+	text-decoration: underline;
+}
+
 .objective, p {
-	display: flex;
-	justify-content: center;
 	align-items: center;
-	flex-direction: column;
 }
 
 .media {
@@ -63,4 +65,19 @@ p {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: #black;
 	font-style: bold;
+}
+
+#title2 {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: black;
+}
+
+.media2 {
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.third {
+	color: #7000A5;
+	text-decoration: underline;
 }
