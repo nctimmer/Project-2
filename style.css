@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat|Open+Sans+Condensed:300|PT+Sans+Narrow|Permanent+Marker&display=swap')
 
 body {
-	font-family: 'PT Sans Narrow', sans-serif;
+	background-color: #DC143C
 }
 
 html {
-	background-color: #DC143C;
+	font-family: 'PT Sans Narrow', sans-serif;
 }
 
 h1 {
