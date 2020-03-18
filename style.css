@@ -42,7 +42,7 @@ p {
 
 .main {
 	display: flex;
-	justify-conent: center;
+	justify-content: center;
 	align-items: center;
 	flex-direction: column;
 }
