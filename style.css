@@ -31,6 +31,10 @@
 	color: white;
 }
 
+nav {
+	text-align: center
+}
+
 body {
 	font-family: 'PT Sans Narrow', sans-serif;
 }
