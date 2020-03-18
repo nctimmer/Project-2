@@ -68,18 +68,3 @@ html {
 	color: #000000;
 	font-weight: 700;
 }
-
-#title2 {
-	font-family: 'PT Sans Narrow', sans-serif;
-	color: black;
-}
-
-.media2 {
-	display:flex;
-	justify-content:space-evenly;
-}
-
-.third {
-	color: #7000A5;
-	text-decoration: underline;
-}
