@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Caveat|Open+Sans+Condensed:300|PT+Sans+Narrow|Permanent+Marker&display=swap" rel="stylesheet">
 
 #navigation {
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
 	padding: 20px;
 }
 
@@ -31,7 +31,7 @@
 }
 
 body {
-	font-family: 'Caveat', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
 }
 
 html {
@@ -84,14 +84,14 @@ h5 {
 }
 
 #title {
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
 	color: #B54EFF;
 	font-style: bold;
 	margin-left: 2em;
 }
 
 #title2 {
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
 	color: #FF22BC;
 	text-align: center;
 }
