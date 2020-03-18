@@ -1,36 +1,5 @@
 <link href="https://fonts.googleapis.com/css?family=Caveat|Open+Sans+Condensed:300|PT+Sans+Narrow|Permanent+Marker&display=swap" rel="stylesheet">
 
-#navigation {
-	font-family: 'PT Sans Narrow', sans-serif;
-	padding: 25px;
-	text-align: center;
-}
-
-#navigation div {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	background-color: #FFFFFF;
-	overflow: hidden;
-}
-
-#navigation div a {
-	color:#f2f2f2
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
-}
-
-#navigation div a:hover {
-	background-color: #ddd;
-	color: black;
-}
-
-#navigation div a.active {
-	background-color: #41BF0D;
-	color: white;
-}
-
 nav {
 	text-align: center
 }
