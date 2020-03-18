@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat|Open+Sans+Condensed:300|PT+Sans+Narrow|Permanent+Marker&display=swap')
 
-body {
-	font-family: 'PT Sans Narrow', sans-serif;
-	font-size: 20px;
-}
-
-html {
-	background-color: #DC143C;
-}
-
 h1 {
 	text-align: center;
 }
@@ -36,6 +27,16 @@ h5 {
 p {
 	text-align: center;
 }
+
+body {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 20px;
+}
+
+html {
+	background-color: #DC143C;
+}
+
 
 .main {
 	display: flex;
