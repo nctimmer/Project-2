@@ -1,21 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat|Open+Sans+Condensed:300|PT+Sans+Narrow|Permanent+Marker&display=swap')
 
-.main {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-}
-
-.objective {
-	align-items: center;
-}
-
-.media {
-	display: flex;
-	justify-content: space-evenly;
-}
-
 h1 {
 	text-align: center;
 }
@@ -53,6 +37,14 @@ html {
 	background-color: #DC143C;
 }
 
+
+.main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
 #navigation {
 	text-align: center;
 }
@@ -60,6 +52,15 @@ html {
 #certification {
 	color: #41BF0D;
 	text-decoration: underline;
+}
+
+.objective {
+	align-items: center;
+}
+
+.media {
+	display: flex;
+	justify-content: space-evenly;
 }
 
 #title {
